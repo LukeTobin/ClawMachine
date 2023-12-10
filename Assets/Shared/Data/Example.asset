@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ecbd114f56b4634daf4650f62505e0c, type: 3}
+  m_Name: Example
+  m_EditorClassIdentifier: 
+  ClawMachinePrefab: {fileID: 4541722083700259714, guid: 37ec122e3e76899439ee50f011dea074,
+    type: 3}
